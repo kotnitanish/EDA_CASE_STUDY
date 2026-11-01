@@ -1,0 +1,13 @@
+sample,features,model,rmse,rmse_sd,mean_baseline
+all 395,"all features, incl. G1+G2",Ridge,2.026,0.168,4.581
+all 395,"all features, incl. G1+G2",RandomForest,1.595,0.32,4.581
+all 395,no G2 (G1 only),Ridge,2.813,0.155,4.581
+all 395,no G2 (G1 only),RandomForest,2.303,0.283,4.581
+all 395,no grades at all,Ridge,4.259,0.255,4.581
+all 395,no grades at all,RandomForest,3.811,0.216,4.581
+G3>0 only,"all features, incl. G1+G2",Ridge,0.874,0.042,3.228
+G3>0 only,"all features, incl. G1+G2",RandomForest,0.878,0.036,3.228
+G3>0 only,no G2 (G1 only),Ridge,1.476,0.12,3.228
+G3>0 only,no G2 (G1 only),RandomForest,1.49,0.087,3.228
+G3>0 only,no grades at all,Ridge,2.918,0.225,3.228
+G3>0 only,no grades at all,RandomForest,2.909,0.172,3.228

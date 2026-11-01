@@ -1,0 +1,16 @@
+,spearman_with_G3
+G2,0.9571
+G1,0.878
+failures,-0.3612
+Medu,0.225
+age,-0.1734
+Fedu,0.17
+goout,-0.1661
+Dalc,-0.1209
+traveltime,-0.1205
+studytime,0.1052
+Walc,-0.1045
+famrel,0.055
+health,-0.0478
+absences,0.0177
+freetime,-0.005

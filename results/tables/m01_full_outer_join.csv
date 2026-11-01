@@ -1,0 +1,13 @@
+ProductID,NameofProd,Price,Company_Location
+1,Jeans,4000.0,Delhi
+2,Tshirt,2500.0,Bangalore
+3,Shirt,4500.0,Mumbai
+4,Trousers,3000.0,Chennai
+5,Sandals,3500.0,Bhubaneswar
+6,Shoes,5000.0,Pune
+7,Watch,7500.0,Kolkata
+8,Sun Glasses,9000.0,Hyderabad
+9,Socks,150.0,
+10,Blazer,6000.0,
+11,,,Vizag
+12,,,Berhampur
